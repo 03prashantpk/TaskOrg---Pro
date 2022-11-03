@@ -1,5 +1,9 @@
 # Task Organizer
 
+![](https://github.com/03prashantpk/TaskOrg---Pro/blob/master/images/ssimage.png)
+
+![](https://github.com/03prashantpk/TaskOrg---Pro/blob/master/images/ssimageempty.png)
+
 ### What and Why this project?
 University Projects - You can Create, Edit and Delete Notes. The data's are saved on LocalStorage using JavaScript.
 
